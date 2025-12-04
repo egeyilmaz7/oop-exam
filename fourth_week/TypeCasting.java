@@ -5,7 +5,7 @@ public class TypeCasting {
 		System.out.println(myInt); // prints 9
 		System.out.println(myDouble); // prints 9.0
 
-		double doubleNum = 9.78d;
+		double doubleNum = 9.78;
 		int intNum = (int) doubleNum; // Manual casting: double to int
 		System.out.println(doubleNum); // prints 9.78
 		System.out.println(intNum);
