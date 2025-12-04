@@ -7,7 +7,7 @@ public class Operations {
         System.out.print("enter the first number: ");
         int num1 = scanner.nextInt();
 
-        System.out.print("enter the first number: ");
+        System.out.print("enter the second number: ");
         int num2 = scanner.nextInt();
 
         int sum = num1 + num2;
